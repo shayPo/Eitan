@@ -1,0 +1,14 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic",
+
+  "editor.formatOnSave": true,
+
+  "terminal.integrated.defaultProfile.windows": "JavaScript Debug Terminal",
+  "terminal.integrated.scrollback": 2000,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+
+  "editor.matchBrackets": "always"
+}
